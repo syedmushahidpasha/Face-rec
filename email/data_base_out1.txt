@@ -1,0 +1,10 @@
+TIME 	 LECTURE 	 ATTANDANCE 	 STUDENT
+2018-03-04 09:39:11.771415	sharf	1	shreyans
+2018-03-04 09:41:53.497460 	sharf 	1 	shreyans
+2018-03-04 09:46:45.213069 	sharf 	1 	shreyans
+2018-03-04 09:52:08.182118 	sharf 	1 	shreyans
+2018-03-04 09:58:45.231526 	sharf 	1 	shreyans
+2018-03-04 10:12:50.788568 	@@@@@ 	1 	shreyans
+2018-03-04 10:28:52.049246 	@@@@@ 	1 	shreyans
+2018-03-04 10:48:37.233483 	@@@@@ 	1 	shreyans
+
